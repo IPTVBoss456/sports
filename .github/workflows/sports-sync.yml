@@ -17,7 +17,7 @@ concurrency:
 jobs:
   sync-sports:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
       - name: Checkout Repository
@@ -26,9 +26,9 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.x"
 
-      - name: Run Sports Sync
+      - name: Sync Sports Events
         run: python sports_sync.py
 
       - name: Commit Updated JSON
@@ -38,9 +38,9 @@ jobs:
 
           git add LiveZoneTV_Sports.json
 
-          if git diff --cached --quiet; then
-            echo "No changes detected."
-          else
-            git commit -m "Auto update LiveZoneTV Sports"
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto update LiveZoneTV sports events"
             git push
+          else
+            echo "No changes detected."
           fi
