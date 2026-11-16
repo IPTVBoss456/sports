@@ -1,0 +1,604 @@
+{
+  "events": [
+    {
+      "id": "591",
+      "category": "Live Events",
+      "eventName": "Formula 1",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Formula 1",
+        "teamB": "Formula 1",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
+        "eventCat": "Motorsport",
+        "eventName": "Motorsports",
+        "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
+        "isHot": 0,
+        "eventType": "Formula 1",
+        "startTime": "2026/11/20 00:30:55 +0000",
+        "endTime": "2026/11/20 08:00:01 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "866",
+      "category": "Live Events",
+      "eventName": "Motogp",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "MotoGP",
+        "teamB": "MotoGP",
+        "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",
+        "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",
+        "eventCat": "Motorsport",
+        "eventName": "Motorsport",
+        "eventLogo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",
+        "isHot": 0,
+        "eventType": "MotoGP",
+        "startTime": "2026/11/20 10:45:42 +0000",
+        "endTime": "2026/11/20 17:55:53 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "1089",
+      "category": "Live Events",
+      "eventName": "Smack Down",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "SmackDown",
+        "teamB": "SmackDown",
+        "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
+        "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
+        "eventName": "WWE",
+        "eventCat": "Boxing",
+        "eventLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
+        "isHot": 0,
+        "eventType": "Friday Night SmackDown",
+        "startTime": "2026/11/21 00:00:03 +0000",
+        "endTime": "2026/11/21 03:00:06 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "1090",
+      "category": "Live Events",
+      "eventName": "WWE Raw",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "WWE RAW",
+        "teamB": "WWE RAW",
+        "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFW9zq6aPTeuXAbR_LN5vEH39CQlgUwbf9htaAx9-D4oupUZ-ocumYl3T_Kkp6Crzq1rUzGf83Ps4jnJzkLD6XlNh1CW9WjsgdhneuImqgaPDw7UekEqax_YdnYynNmyfmWTxVZ599JunK1yoA5ErRmJBe0fCos9fHoNwIYmOAwgenJizk5e0nhHHPnkM/s1600/20250317_175451.jpg",
+        "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFW9zq6aPTeuXAbR_LN5vEH39CQlgUwbf9htaAx9-D4oupUZ-ocumYl3T_Kkp6Crzq1rUzGf83Ps4jnJzkLD6XlNh1CW9WjsgdhneuImqgaPDw7UekEqax_YdnYynNmyfmWTxVZ599JunK1yoA5ErRmJBe0fCos9fHoNwIYmOAwgenJizk5e0nhHHPnkM/s1600/20250317_175451.jpg",
+        "eventName": "WWE",
+        "eventCat": "Boxing",
+        "eventLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
+        "isHot": 0,
+        "eventType": "Monday Night RAW",
+        "startTime": "2026/11/17 00:00:15 +0000",
+        "endTime": "2026/11/17 03:00:20 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "8963",
+      "category": "Live Events",
+      "eventName": "UFC LIVE",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "C. Gane",
+        "teamB": "J. Hokit",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/461602/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/493385/image",
+        "eventCat": "Boxing",
+        "eventName": "Boxing",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/19906/image",
+        "eventType": "UFC",
+        "isHot": 0,
+        "startTime": "2026/11/14 22:00:57 +0000",
+        "endTime": "2026/11/15 05:55:05 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14072",
+      "category": "Live Events",
+      "eventName": "Afghanistan vs Zimbabwe",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Afghanistan",
+        "teamB": "Zimbabwe",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
+        "eventCat": "Cricket",
+        "eventName": "Cricket",
+        "eventType": "Test Championship",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11190/image",
+        "isHot": 0,
+        "startTime": "2026/11/17 06:00:48 +0000",
+        "endTime": "2026/11/17 14:00:51 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14261",
+      "category": "Live Events",
+      "eventName": "NPL Nepal Premier League",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "NPL",
+        "teamB": "NPL",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s",
+        "eventCat": "Cricket",
+        "eventName": "Cricket",
+        "eventType": "Nepal Premier League T20",
+        "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s",
+        "isHot": 0,
+        "startTime": "2026/11/17 06:45:36 +0000",
+        "endTime": "2026/11/17 11:00:40 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14559",
+      "category": "Live Events",
+      "eventName": "Pakistan vs Sri Lanka",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Pakistan",
+        "teamB": "Sri Lanka",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "eventCat": "Cricket",
+        "eventName": "Cricket",
+        "eventType": "ICC World Test Championship",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/17 04:30:53 +0000",
+        "endTime": "2026/11/17 13:00:58 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14622",
+      "category": "Live Events",
+      "eventName": "Abu Dhabi T10 League",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Abu Dhabi T10",
+        "teamB": "Abu Dhabi T10",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "eventCat": "Cricket",
+        "eventName": "Cricket",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
+        "eventType": "Abu Dhabi T10 League",
+        "isHot": 0,
+        "startTime": "2026/11/16 16:00:17 +0000",
+        "endTime": "2026/11/16 17:55:46 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14822",
+      "category": "Live Events",
+      "eventName": "Australia vs England",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Australia",
+        "teamB": "England",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "eventCat": "Cricket",
+        "eventName": "Cricket",
+        "eventType": "One Day International",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/18 03:30:10 +0000",
+        "endTime": "2026/11/18 12:00:15 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14851",
+      "category": "Live Events",
+      "eventName": "South Africa vs Bangladesh",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "South Africa",
+        "teamB": "Bangladesh",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+        "eventCat": "Cricket",
+        "eventName": "Cricket",
+        "eventType": "ICC World Test Championship",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/18833/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/17 08:00:07 +0000",
+        "endTime": "2026/11/17 16:00:12 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14882",
+      "category": "Live Events",
+      "eventName": "WBBL Women Big Bash League",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "WBBL",
+        "teamB": "WBBL",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "eventCat": "Cricket",
+        "eventName": "Cricket",
+        "eventType": "Women's Big Bash League",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/17 08:10:39 +0000",
+        "endTime": "2026/11/17 12:00:43 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14888",
+      "category": "Live Events",
+      "eventName": "New Zealand vs India",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "New Zealand",
+        "teamB": "India",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "eventCat": "Cricket",
+        "eventName": "Cricket",
+        "eventType": "ICC World Test Championship",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/18 22:00:35 +0000",
+        "endTime": "2026/11/19 06:00:41 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14987",
+      "category": "Live Events",
+      "eventName": "Baltimore Ravens vs Los Angeles Chargers",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Baltimore Ravens",
+        "teamB": "Los Angeles Chargers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4413/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4429/image",
+        "eventCat": "American football",
+        "eventName": "American football",
+        "eventType": "NFL",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/17 01:15:00 +0000",
+        "endTime": "2026/11/17 04:15:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14991",
+      "category": "Live Events",
+      "eventName": "Somalia vs Ghana",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Somalia",
+        "teamB": "Ghana",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23472/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "Africa Cup of Nations Qual.",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/16 15:00:00 +0000",
+        "endTime": "2026/11/16 17:20:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14992",
+      "category": "Live Events",
+      "eventName": "Central African Republic vs Benin",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Central African Republic",
+        "teamB": "Benin",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23470/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4744/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "Africa Cup of Nations Qual.",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/16 16:00:00 +0000",
+        "endTime": "2026/11/16 18:20:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14993",
+      "category": "Live Events",
+      "eventName": "Eritrea vs Guinea",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Eritrea",
+        "teamB": "Guinea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/8041/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4826/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "Africa Cup of Nations Qual.",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/16 16:00:00 +0000",
+        "endTime": "2026/11/16 18:20:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14994",
+      "category": "Live Events",
+      "eventName": "Faroe Islands vs Moldova",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Faroe Islands",
+        "teamB": "Moldova",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4760/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4782/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "UEFA Nations League",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/16 15:00:00 +0000",
+        "endTime": "2026/11/16 17:20:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14995",
+      "category": "Live Events",
+      "eventName": "Kazakhstan vs Slovakia",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Kazakhstan",
+        "teamB": "Slovakia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4772/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4697/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "UEFA Nations League",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/16 15:00:00 +0000",
+        "endTime": "2026/11/16 17:20:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14996",
+      "category": "Live Events",
+      "eventName": "Estonia vs Bulgaria",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Estonia",
+        "teamB": "Bulgaria",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4759/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4716/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "UEFA Nations League",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/16 17:00:00 +0000",
+        "endTime": "2026/11/16 19:20:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14997",
+      "category": "Live Events",
+      "eventName": "Iceland vs Luxembourg",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Iceland",
+        "teamB": "Luxembourg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4708/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4478/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "UEFA Nations League",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/16 17:00:00 +0000",
+        "endTime": "2026/11/16 19:20:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14998",
+      "category": "Live Events",
+      "eventName": "Germany vs Netherlands",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Germany",
+        "teamB": "Netherlands",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4711/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4705/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "UEFA Nations League",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/16 19:45:00 +0000",
+        "endTime": "2026/11/16 22:05:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "14999",
+      "category": "Live Events",
+      "eventName": "Greece vs Serbia",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Greece",
+        "teamB": "Serbia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4710/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6355/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "UEFA Nations League",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/16 19:45:00 +0000",
+        "endTime": "2026/11/16 22:05:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "15000",
+      "category": "Live Events",
+      "eventName": "Lithuania vs Liechtenstein",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Lithuania",
+        "teamB": "Liechtenstein",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4776/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4830/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "UEFA Nations League",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/16 17:00:00 +0000",
+        "endTime": "2026/11/16 19:20:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "15001",
+      "category": "Live Events",
+      "eventName": "Gibraltar vs Malta",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Gibraltar",
+        "teamB": "Malta",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/129264/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4483/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "UEFA Nations League",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/16 19:45:00 +0000",
+        "endTime": "2026/11/16 22:05:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "15002",
+      "category": "Live Events",
+      "eventName": "Andorra vs Azerbaijan",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Andorra",
+        "teamB": "Azerbaijan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4818/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4742/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "International Friendly Games",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/16 18:00:00 +0000",
+        "endTime": "2026/11/16 20:20:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "15003",
+      "category": "Live Events",
+      "eventName": "Albacete Balompie vs Celta Fortuna",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Albacete Balompié",
+        "teamB": "Celta Fortuna",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "LaLiga 2",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/16 19:30:00 +0000",
+        "endTime": "2026/11/16 21:50:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "15004",
+      "category": "Live Events",
+      "eventName": "Singapore vs Brazil",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Singapore",
+        "teamB": "Brazil",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4748/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "International Friendly Games",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/17 10:00:00 +0000",
+        "endTime": "2026/11/17 12:20:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "15005",
+      "category": "Live Events",
+      "eventName": "Argentina vs Costa Rica",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Argentina",
+        "teamB": "Costa Rica",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4756/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "International Friendly Games",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/17 21:00:00 +0000",
+        "endTime": "2026/11/17 23:20:00 +0000"
+      },
+      "streams": []
+    },
+    {
+      "id": "15010",
+      "category": "Live Events",
+      "eventName": "Canada vs Guatemala",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Canada",
+        "teamB": "Guatemala",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4752/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5163/image",
+        "eventCat": "Football",
+        "eventName": "Football",
+        "eventType": "CONCACAF Nations League",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/17 01:00:00 +0000",
+        "endTime": "2026/11/17 03:20:00 +0000"
+      },
+      "streams": []
+    }
+  ]
+}
