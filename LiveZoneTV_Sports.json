@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T17:49:38.244637+00:00",
+  "updatedAt": "2026-11-16T19:01:57.309675+00:00",
   "total": 30,
   "events": [
     {
@@ -20,7 +20,36 @@
         "startTime": "2026/11/20 00:30:55 +0000",
         "endTime": "2026/11/20 08:00:01 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://chatgpt.hereisman.net/playlist/59362/load-playlist-multi?",
+          "quality": "HD",
+          "headers": "Referer=https://gooz.aapmains.net",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SPORTSCAST - AQ",
+          "streamUrl": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/625d55bb-c7b5-4867-8025-6c605f05263f/master.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "RUSSIA FEED",
+          "streamUrl": "https://bl.rutube.ru/livestream/db5196d148940744b350e26e826c4b72/index.m3u8?s=UWV-P5C4krQ3jIWw_JWM9Q&e=1793648762&scheme=https",
+          "quality": "HD",
+          "headers": "user-agent=Mozilla",
+          "backupUrls": []
+        },
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.50/hls/ffffn.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "866",
@@ -40,7 +69,15 @@
         "startTime": "2026/11/20 10:45:42 +0000",
         "endTime": "2026/11/20 17:55:53 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.44/hls/ziii.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "1089",
@@ -60,7 +97,43 @@
         "startTime": "2026/11/21 00:00:03 +0000",
         "endTime": "2026/11/21 03:00:06 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://chatgpt.hereisman.net/playlist/58881/load-playlist-multi?",
+          "quality": "HD",
+          "headers": "Referer=https://gooz.aapmains.net/",
+          "backupUrls": []
+        },
+        {
+          "channelName": "WWE LIVE - AQ",
+          "streamUrl": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "CRICFy WWE",
+          "streamUrl": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SD SERVER",
+          "streamUrl": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8?",
+          "quality": "HD",
+          "headers": "Referer=https://26hrwgorfcmh.windows-devs.top/",
+          "backupUrls": []
+        },
+        {
+          "channelName": "HD SERVER",
+          "streamUrl": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8?",
+          "quality": "HD",
+          "headers": "referer=https://26hrwgorfcmh.windows-devs.top/",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "1090",
@@ -80,7 +153,36 @@
         "startTime": "2026/11/17 00:00:15 +0000",
         "endTime": "2026/11/17 03:00:20 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://chatgpt.hereisman.net/playlist/54800/load-playlist?",
+          "quality": "HD",
+          "headers": "Referer=https://gooz.aapmains.net",
+          "backupUrls": []
+        },
+        {
+          "channelName": "HD SERVER",
+          "streamUrl": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "CRICFy HD",
+          "streamUrl": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?",
+          "quality": "HD",
+          "headers": "Referer=https://streamscenter.online/|Origin=https://streamscenter.online",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SD SERVER",
+          "streamUrl": "http://193.47.62.59/hls/K999QQ.m3u8?",
+          "quality": "HD",
+          "headers": "Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc/",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "8963",
@@ -100,7 +202,36 @@
         "startTime": "2026/11/14 22:00:57 +0000",
         "endTime": "2026/11/15 05:55:05 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "PARAMOUNT+ HD",
+          "streamUrl": "https://chatgpt.hereisman.net/playlist/60083/load-playlist-multi?",
+          "quality": "HD",
+          "headers": "Referer=https://gooz.aapmains.net",
+          "backupUrls": []
+        },
+        {
+          "channelName": "UFC LIVE - AQ",
+          "streamUrl": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/24.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://chatgpt.hereisman.net/playlist/60082/load-playlist-multi?",
+          "quality": "HD",
+          "headers": "Referer=https://gooz.aapmains.net",
+          "backupUrls": []
+        },
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.192/hls/FEEEEQ.m3u8?",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc/",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "14072",
@@ -120,7 +251,22 @@
         "startTime": "2026/11/17 06:00:48 +0000",
         "endTime": "2026/11/17 14:00:51 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "A SPORTS HD",
+          "streamUrl": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "FANCODE - IN",
+          "streamUrl": "https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/index.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1|Referer=https://fancode.com/",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "14261",
@@ -140,7 +286,22 @@
         "startTime": "2026/11/17 06:45:36 +0000",
         "endTime": "2026/11/17 11:00:40 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "STAR SPORTS HD",
+          "streamUrl": "http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "FANCODE - IN",
+          "streamUrl": "https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794551600~_GO=Generated~acl=/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/*~SessionID=20fde653298ae09b1231e2c94877ae9f_playbox_845100cd-5fdc-46~Signature=AbO9BjgfyL-FpZ7spkiG2wk2QQTC6UB2OHU7ZKlNcQy4HU3FoWFjTUucHLaPgIbX7QFpbRGK2lYv32eBx3NUFzpDLlIG",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "14559",
@@ -160,7 +321,36 @@
         "startTime": "2026/11/17 04:30:53 +0000",
         "endTime": "2026/11/17 13:00:58 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "TAPMAD - AQ",
+          "streamUrl": "https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "quality": "HD",
+          "headers": "referer=https://tapmad.com/",
+          "backupUrls": []
+        },
+        {
+          "channelName": "PTV SPORTS HD",
+          "streamUrl": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "TAPMAD HD",
+          "streamUrl": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.50/hls/VFFFA.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "14622",
@@ -180,7 +370,22 @@
         "startTime": "2026/11/16 16:00:17 +0000",
         "endTime": "2026/11/16 17:55:46 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "A SPORTS HD",
+          "streamUrl": "https://live.msnetworks.net/a-sports/master.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "MYCO HD",
+          "streamUrl": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8",
+          "quality": "HD",
+          "headers": "referer=https://myco.io/",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "14822",
@@ -200,7 +405,36 @@
         "startTime": "2026/11/18 03:30:10 +0000",
         "endTime": "2026/11/18 12:00:15 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "TAPMAD - AQ",
+          "streamUrl": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8?",
+          "quality": "HD",
+          "headers": "Referer=https://tapmad.com/",
+          "backupUrls": []
+        },
+        {
+          "channelName": "TEN SPORTS HD",
+          "streamUrl": "https://live.msnetworks.net/ten-sports/master.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.41/hls/vvvve.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        },
+        {
+          "channelName": "FANCODE - IN",
+          "streamUrl": "https://in-mc-flive.fancode.com/mumbai/4250640_english_hls_531bf4661e7063_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794628546~_GO=Generated~acl=/mumbai/4250640_english_hls_531bf4661e7063_1ta-di_h264/*~SessionID=330387595_fc-web_e17f533d-0cb8-4f~Signature=AbO9BjhOYLd1GmMfhOhHHklnPOfhTKBOpq8RY94K5cvEs32zsfobefwN_2FtsFC-VmxLp67-63kmnIeMKq08MmKZpgcO",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "14851",
@@ -220,7 +454,29 @@
         "startTime": "2026/11/17 08:00:07 +0000",
         "endTime": "2026/11/17 16:00:12 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "SKY CRICKET - AQ",
+          "streamUrl": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "quality": "HD",
+          "headers": "user-agent=Mozilla",
+          "backupUrls": []
+        },
+        {
+          "channelName": "T SPORTS HD",
+          "streamUrl": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.41/hls/JYYY.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "14882",
@@ -240,7 +496,22 @@
         "startTime": "2026/11/17 08:10:39 +0000",
         "endTime": "2026/11/17 12:00:43 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "TAPMAD - AQ",
+          "streamUrl": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8?",
+          "quality": "HD",
+          "headers": "Referer=https://tapmad.com/",
+          "backupUrls": []
+        },
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.55/hls/VFFF.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "14888",
@@ -260,7 +531,64 @@
         "startTime": "2026/11/18 22:00:35 +0000",
         "endTime": "2026/11/19 06:00:41 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "SonyLiv - ENG",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794747596~acl=/*~id=96519495444179254654194417123549~hmac=5eb0fb6944aec6acc464198628e5289a2fb267ea5711b80b77e7d134030f47bb",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SonyLiv - HIN",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794747596~acl=/*~id=96519495444179254654194417123549~hmac=5eb0fb6944aec6acc464198628e5289a2fb267ea5711b80b77e7d134030f47bb",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SonyLiv - TAM",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794747596~acl=/*~id=96519495444179254654194417123549~hmac=5eb0fb6944aec6acc464198628e5289a2fb267ea5711b80b77e7d134030f47bb",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SonyLiv - TEL",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794747596~acl=/*~id=96519495444179254654194417123549~hmac=5eb0fb6944aec6acc464198628e5289a2fb267ea5711b80b77e7d134030f47bb",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SonyLiv - KAN",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794747596~acl=/*~id=96519495444179254654194417123549~hmac=5eb0fb6944aec6acc464198628e5289a2fb267ea5711b80b77e7d134030f47bb",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "TAPMAD BD - AQ",
+          "streamUrl": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SONYLIV BD - AQ",
+          "streamUrl": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794747596~acl=/*~id=96519495444179254654194417123549~hmac=5eb0fb6944aec6acc464198628e5289a2fb267ea5711b80b77e7d134030f47bb",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SONY GLOBAL",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794750655~acl=/*~id=45577059795063177253236564546996~hmac=b42a889d2ecc0257653da73fdff76e700727ea5be1aa165a20877b8e09094342",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0|Referer=https://www.sonyliv.com/|Origin=https://www.sonyliv.com",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "14987",
@@ -300,7 +628,22 @@
         "startTime": "2026/11/16 15:00:00 +0000",
         "endTime": "2026/11/16 17:20:00 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "HD SERVER",
+          "streamUrl": "https://www.rtmpcdn.com/live/e1730e93-10ba-4cd5-a2ef-df10b2c8d746.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        },
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.55/hls/EAEAEA.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "14992",
@@ -320,7 +663,15 @@
         "startTime": "2026/11/16 16:00:00 +0000",
         "endTime": "2026/11/16 18:20:00 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.50/hls/BTBTBT.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "14993",
@@ -340,7 +691,15 @@
         "startTime": "2026/11/16 16:00:00 +0000",
         "endTime": "2026/11/16 18:20:00 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.50/hls/BTBTBTA.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "14994",
@@ -360,7 +719,43 @@
         "startTime": "2026/11/16 15:00:00 +0000",
         "endTime": "2026/11/16 17:20:00 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "FOX SOCCER+ HD",
+          "streamUrl": "https://chatgpt.hereisman.net/playlist/60250/load-playlist-multi?",
+          "quality": "HD",
+          "headers": "Referer=https://gooz.aapmains.net",
+          "backupUrls": []
+        },
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://live.vivo155.com/live/hd-en-1-4518115.m3u8?txSecret=42a5a72389b471de9603b027e5943dd2&txTime=6AFB2C18",
+          "quality": "HD",
+          "headers": "Referer=https://player.on8on8.com/",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SonyLiv",
+          "streamUrl": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2120299/footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "HD SERVER",
+          "streamUrl": "https://www.rtmpcdn.com/live/9b18ae86-ec93-4bec-a114-f1640a6add80.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        },
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.41/hls/EAEAEAA.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "14995",
@@ -380,7 +775,43 @@
         "startTime": "2026/11/16 15:00:00 +0000",
         "endTime": "2026/11/16 17:20:00 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://live.vivo155.com/live/hd-en-1-4518116.m3u8?txSecret=4d81ec34260bff6b8ec4dff3ce28abce&txTime=6AFB2C1A",
+          "quality": "HD",
+          "headers": "Referer=https://player.on8on8.com/",
+          "backupUrls": []
+        },
+        {
+          "channelName": "FOX SPORTS HD",
+          "streamUrl": "https://chatgpt.hereisman.net/playlist/60251/load-playlist-multi?",
+          "quality": "HD",
+          "headers": "Referer=https://gooz.aapmains.net",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SonyLiv",
+          "streamUrl": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120301/Footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "HD SERVER",
+          "streamUrl": "https://www.rtmpcdn.com/live/a5f22229-2144-4036-b355-d6b8242daa33.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        },
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.41/hls/EAEAEAAA.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "14996",
@@ -480,7 +911,15 @@
         "startTime": "2026/11/16 17:00:00 +0000",
         "endTime": "2026/11/16 19:20:00 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "15001",
@@ -500,7 +939,15 @@
         "startTime": "2026/11/16 19:45:00 +0000",
         "endTime": "2026/11/16 22:05:00 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "15002",
@@ -520,7 +967,15 @@
         "startTime": "2026/11/16 18:00:00 +0000",
         "endTime": "2026/11/16 20:20:00 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "15003",
@@ -560,7 +1015,15 @@
         "startTime": "2026/11/17 10:00:00 +0000",
         "endTime": "2026/11/17 12:20:00 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "15005",
@@ -580,7 +1043,15 @@
         "startTime": "2026/11/17 21:00:00 +0000",
         "endTime": "2026/11/17 23:20:00 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "15010",
