@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T05:20:58.744726+00:00",
-  "total": 67,
+  "updatedAt": "2026-11-26T15:38:23.678545+00:00",
+  "total": 63,
   "events": [
     {
       "id": "591",
@@ -346,8 +346,8 @@
         "eventType": "Women's Big Bash League",
         "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
         "isHot": 0,
-        "startTime": "2026/11/26 04:40:48 +0000",
-        "endTime": "2026/11/26 12:30:54 +0000"
+        "startTime": "2026/11/27 10:10:27 +0000",
+        "endTime": "2026/11/27 14:15:31 +0000"
       },
       "streams": [
         {
@@ -366,7 +366,7 @@
         },
         {
           "channelName": "LOW SERVER",
-          "streamUrl": "http://193.47.62.41/hls/FFFFE.m3u8",
+          "streamUrl": "http://193.47.62.41/hls/R444.m3u8",
           "quality": "HD",
           "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
           "backupUrls": []
@@ -478,35 +478,35 @@
       "streams": [
         {
           "channelName": "SonyLiv - ENG",
-          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795729019~acl=/*~id=22066650344609611786204354702413~hmac=e83e93f5f799c6b870db1bf984d0211965bbd425e2f09d1dd4611ce7d7069431",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
         },
         {
           "channelName": "SonyLiv - HIN",
-          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795729019~acl=/*~id=22066650344609611786204354702413~hmac=e83e93f5f799c6b870db1bf984d0211965bbd425e2f09d1dd4611ce7d7069431",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
         },
         {
           "channelName": "SonyLiv - TAM",
-          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795729019~acl=/*~id=22066650344609611786204354702413~hmac=e83e93f5f799c6b870db1bf984d0211965bbd425e2f09d1dd4611ce7d7069431",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
         },
         {
           "channelName": "SonyLiv - TEL",
-          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795729019~acl=/*~id=22066650344609611786204354702413~hmac=e83e93f5f799c6b870db1bf984d0211965bbd425e2f09d1dd4611ce7d7069431",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
         },
         {
           "channelName": "SonyLiv - KAN",
-          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795540931~acl=/*~id=42533442359826935436253248685876~hmac=87ea8943906f9a403a1ee7d1dd9ff17f83fd0eb43341967a8f9707fc56d22b8b",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795729019~acl=/*~id=22066650344609611786204354702413~hmac=e83e93f5f799c6b870db1bf984d0211965bbd425e2f09d1dd4611ce7d7069431",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
@@ -514,6 +514,41 @@
         {
           "channelName": "PTV SPORTS HD",
           "streamUrl": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SONY TEN 1 - IN",
+          "streamUrl": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SONY TEN 2 - IN",
+          "streamUrl": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SONY TEN 3 - IN",
+          "streamUrl": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SONY TEN 4 - IN",
+          "streamUrl": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "SONY TEN 5 - IN",
+          "streamUrl": "https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
@@ -598,8 +633,8 @@
         "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
         "eventType": "Italia T10 League",
         "isHot": 0,
-        "startTime": "2026/11/26 11:00:28 +0000",
-        "endTime": "2026/11/26 15:15:31 +0000"
+        "startTime": "2026/11/27 11:00:16 +0000",
+        "endTime": "2026/11/27 15:15:20 +0000"
       },
       "streams": [
         {
@@ -657,15 +692,7 @@
         "startTime": "2026/11/26 17:45:00 +0000",
         "endTime": "2026/11/26 20:05:00 +0000"
       },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
+      "streams": []
     },
     {
       "id": "15331",
@@ -741,15 +768,7 @@
         "startTime": "2026/11/26 17:45:00 +0000",
         "endTime": "2026/11/26 20:05:00 +0000"
       },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
+      "streams": []
     },
     {
       "id": "15334",
@@ -881,15 +900,7 @@
         "startTime": "2026/11/26 20:00:00 +0000",
         "endTime": "2026/11/26 22:20:00 +0000"
       },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
+      "streams": []
     },
     {
       "id": "15339",
@@ -937,15 +948,7 @@
         "startTime": "2026/11/26 20:00:00 +0000",
         "endTime": "2026/11/26 22:20:00 +0000"
       },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
+      "streams": []
     },
     {
       "id": "15341",
@@ -1049,15 +1052,7 @@
         "startTime": "2026/11/26 20:00:00 +0000",
         "endTime": "2026/11/26 22:20:00 +0000"
       },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
+      "streams": []
     },
     {
       "id": "15345",
@@ -1105,15 +1100,7 @@
         "startTime": "2026/11/26 20:00:00 +0000",
         "endTime": "2026/11/26 22:20:00 +0000"
       },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
+      "streams": []
     },
     {
       "id": "15347",
@@ -1133,15 +1120,7 @@
         "startTime": "2026/11/26 15:30:00 +0000",
         "endTime": "2026/11/26 17:50:00 +0000"
       },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
+      "streams": []
     },
     {
       "id": "15348",
@@ -1163,7 +1142,7 @@
       },
       "streams": [
         {
-          "channelName": "CRICFy LIVE",
+          "channelName": "LOW SERVER",
           "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
           "quality": "HD",
           "headers": "",
@@ -1217,15 +1196,7 @@
         "startTime": "2026/11/26 17:45:00 +0000",
         "endTime": "2026/11/26 20:05:00 +0000"
       },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
+      "streams": []
     },
     {
       "id": "15351",
@@ -1301,15 +1272,7 @@
         "startTime": "2026/11/26 17:45:00 +0000",
         "endTime": "2026/11/26 20:05:00 +0000"
       },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
+      "streams": []
     },
     {
       "id": "15354",
@@ -1357,15 +1320,7 @@
         "startTime": "2026/11/26 17:45:00 +0000",
         "endTime": "2026/11/26 20:05:00 +0000"
       },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
+      "streams": []
     },
     {
       "id": "15356",
@@ -1553,15 +1508,7 @@
         "startTime": "2026/11/26 20:00:00 +0000",
         "endTime": "2026/11/26 22:20:00 +0000"
       },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
+      "streams": []
     },
     {
       "id": "15363",
@@ -1620,62 +1567,6 @@
       ]
     },
     {
-      "id": "15365",
-      "category": "Live Events",
-      "eventName": "New Zealand U17 vs Belgium U17",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "New Zealand U17",
-        "teamB": "Belgium U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22634/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22583/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "U17 World Championship",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/26 13:00:00 +0000",
-        "endTime": "2026/11/26 15:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15366",
-      "category": "Live Events",
-      "eventName": "Vietnam U17 vs Mali U17",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Vietnam U17",
-        "teamB": "Mali U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/468404/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/203876/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "U17 World Championship",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/26 13:00:00 +0000",
-        "endTime": "2026/11/26 15:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
       "id": "15367",
       "category": "Live Events",
       "eventName": "Jamaica U17 vs Cote dIvoire U17",
@@ -1696,9 +1587,9 @@
       "streams": [
         {
           "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "streamUrl": "https://live3979.zundrixmediapipeline.com/live/channel18.m3u8?",
           "quality": "HD",
-          "headers": "",
+          "headers": "Referer=https://xlz.domainkqt.cc/",
           "backupUrls": []
         }
       ]
@@ -1723,10 +1614,10 @@
       },
       "streams": [
         {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "channelName": "HD SERVER",
+          "streamUrl": "https://live3979.zundrixmediapipeline.com/live/channel12.m3u8?",
           "quality": "HD",
-          "headers": "",
+          "headers": "Referer=https://xlz.domainkqt.cc/",
           "backupUrls": []
         }
       ]
@@ -1777,15 +1668,7 @@
         "startTime": "2026/11/26 15:00:00 +0000",
         "endTime": "2026/11/26 17:20:00 +0000"
       },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
+      "streams": []
     },
     {
       "id": "15371",
@@ -1863,10 +1746,10 @@
       },
       "streams": [
         {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.41/hls/QTTTAAA.m3u8",
           "quality": "HD",
-          "headers": "",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
           "backupUrls": []
         }
       ]
@@ -1928,174 +1811,6 @@
       ]
     },
     {
-      "id": "15376",
-      "category": "Live Events",
-      "eventName": "Gangwon FC vs Kitchee SC",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Gangwon FC",
-        "teamB": "Kitchee SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34220/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42199/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "AFC Champions League Two",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/26 10:00:00 +0000",
-        "endTime": "2026/11/26 12:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15377",
-      "category": "Live Events",
-      "eventName": "Kuching City vs Phnom Penh Crown",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Kuching City",
-        "teamB": "Phnom Penh Crown",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/338334/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/35605/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "AFC Champions League Two",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/26 10:00:00 +0000",
-        "endTime": "2026/11/26 12:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15378",
-      "category": "Live Events",
-      "eventName": "Tampines Rovers vs Shanghai Shenhua",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Tampines Rovers",
-        "teamB": "Shanghai Shenhua",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3043/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3373/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "AFC Champions League Two",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/26 10:00:00 +0000",
-        "endTime": "2026/11/26 12:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15379",
-      "category": "Live Events",
-      "eventName": "BG Pathum United vs Lion City Sailors",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "BG Pathum United",
-        "teamB": "Lion City Sailors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35607/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3041/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "AFC Champions League Two",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/26 12:15:00 +0000",
-        "endTime": "2026/11/26 14:35:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15380",
-      "category": "Live Events",
-      "eventName": "Tai Po vs Adelaide United",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Tai Po",
-        "teamB": "Adelaide United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/40662/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2946/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "AFC Champions League Two",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/26 12:15:00 +0000",
-        "endTime": "2026/11/26 14:35:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15381",
-      "category": "Live Events",
-      "eventName": "Preah Khan Reach Svay Rieng FC vs Machida Zelvia",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Preah Khan Reach Svay Rieng FC",
-        "teamB": "Machida Zelvia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/153474/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/44409/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "AFC Champions League Two",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/26 12:15:00 +0000",
-        "endTime": "2026/11/26 14:35:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "CRICFy LIVE",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
       "id": "15382",
       "category": "Live Events",
       "eventName": "Sao Paulo vs Remo",
@@ -2112,6 +1827,118 @@
         "isHot": 0,
         "startTime": "2026/11/26 23:00:00 +0000",
         "endTime": "2026/11/27 01:20:00 +0000"
+      },
+      "streams": [
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        }
+      ]
+    },
+    {
+      "id": "15383",
+      "category": "Live Events",
+      "eventName": "Detroit Lions vs Chicago Bears",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Detroit Lions",
+        "teamB": "Chicago Bears",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4419/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4391/image",
+        "eventCat": "American football",
+        "eventName": "American football",
+        "eventType": "NFL",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/26 18:00:00 +0000",
+        "endTime": "2026/11/26 21:00:00 +0000"
+      },
+      "streams": [
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        }
+      ]
+    },
+    {
+      "id": "15384",
+      "category": "Live Events",
+      "eventName": "Dallas Cowboys vs Philadelphia Eagles",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Dallas Cowboys",
+        "teamB": "Philadelphia Eagles",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
+        "eventCat": "American football",
+        "eventName": "American football",
+        "eventType": "NFL",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/26 21:30:00 +0000",
+        "endTime": "2026/11/27 00:30:00 +0000"
+      },
+      "streams": [
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        }
+      ]
+    },
+    {
+      "id": "15385",
+      "category": "Live Events",
+      "eventName": "Buffalo Bills vs Kansas City Chiefs",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Buffalo Bills",
+        "teamB": "Kansas City Chiefs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
+        "eventCat": "American football",
+        "eventName": "American football",
+        "eventType": "NFL",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/27 01:20:00 +0000",
+        "endTime": "2026/11/27 04:20:00 +0000"
+      },
+      "streams": [
+        {
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "quality": "HD",
+          "headers": "",
+          "backupUrls": []
+        }
+      ]
+    },
+    {
+      "id": "15386",
+      "category": "Live Events",
+      "eventName": "Pittsburgh Steelers vs Denver Broncos",
+      "status": "UPCOMING",
+      "eventInfo": {
+        "teamA": "Pittsburgh Steelers",
+        "teamB": "Denver Broncos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4345/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4418/image",
+        "eventCat": "American football",
+        "eventName": "American football",
+        "eventType": "NFL",
+        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "isHot": 0,
+        "startTime": "2026/11/27 20:00:00 +0000",
+        "endTime": "2026/11/27 23:00:00 +0000"
       },
       "streams": [
         {
