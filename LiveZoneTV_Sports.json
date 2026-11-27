@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T00:00:46.544246+00:00",
-  "total": 42,
+  "updatedAt": "2026-11-27T08:18:36.391032+00:00",
+  "total": 39,
   "events": [
     {
       "id": "591",
@@ -261,7 +261,7 @@
       "streams": [
         {
           "channelName": "TAPMAD - AQ",
-          "streamUrl": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
+          "streamUrl": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
@@ -388,8 +388,8 @@
         "eventType": "ICC World Test Championship",
         "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/11190/image/dark",
         "isHot": 0,
-        "startTime": "2026/11/26 22:00:05 +0000",
-        "endTime": "2026/11/27 06:00:09 +0000"
+        "startTime": "2026/11/27 22:00:57 +0000",
+        "endTime": "2026/11/28 06:00:04 +0000"
       },
       "streams": [
         {
@@ -408,37 +408,44 @@
         },
         {
           "channelName": "SonyLiv - ENG",
-          "streamUrl": "https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_2611/ENG/master.m3u8?hdnea=exp=1795772482~acl=/*~id=fdadda49217e62ad96e832d0b99abebe-1794646289302~hmac=39750c4b5af31ad617cf7593967da96372932fd8d436d9dd194f49c97a5d3e68",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/master.m3u8?hdnea=exp=1795785789~acl=/*~id=5f64b06668646d476c3662188de28876-1795742588679~hmac=ea4f8fd4cb4a9c6bf8b8c61c2e7bc7e645b7156340f0a605481b8cc9f4cec75a",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
         },
         {
           "channelName": "SonyLiv - HIN",
-          "streamUrl": "https://liveakdai.slivcdn.com/hls/live/2119921/cricodi_2611/HIN/master.m3u8?hdnea=exp=1795772482~acl=/*~id=fdadda49217e62ad96e832d0b99abebe-1794646289302~hmac=39750c4b5af31ad617cf7593967da96372932fd8d436d9dd194f49c97a5d3e68",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/master.m3u8?hdnea=exp=1795785789~acl=/*~id=5f64b06668646d476c3662188de28876-1795742588679~hmac=ea4f8fd4cb4a9c6bf8b8c61c2e7bc7e645b7156340f0a605481b8cc9f4cec75a",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
         },
         {
           "channelName": "SonyLiv - TEL",
-          "streamUrl": "https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_2611/TEL/master.m3u8?hdnea=exp=1795772482~acl=/*~id=fdadda49217e62ad96e832d0b99abebe-1794646289302~hmac=39750c4b5af31ad617cf7593967da96372932fd8d436d9dd194f49c97a5d3e68",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/master.m3u8?hdnea=exp=1795785789~acl=/*~id=5f64b06668646d476c3662188de28876-1795742588679~hmac=ea4f8fd4cb4a9c6bf8b8c61c2e7bc7e645b7156340f0a605481b8cc9f4cec75a",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
         },
         {
           "channelName": "SonyLiv - TAM",
-          "streamUrl": "https://liveakdai.slivcdn.com/hls/live/2119951/cricodi_2611/TAM/master.m3u8?hdnea=exp=1795772482~acl=/*~id=fdadda49217e62ad96e832d0b99abebe-1794646289302~hmac=39750c4b5af31ad617cf7593967da96372932fd8d436d9dd194f49c97a5d3e68",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/master.m3u8?hdnea=exp=1795785789~acl=/*~id=5f64b06668646d476c3662188de28876-1795742588679~hmac=ea4f8fd4cb4a9c6bf8b8c61c2e7bc7e645b7156340f0a605481b8cc9f4cec75a",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
         },
         {
           "channelName": "SonyLiv - KAN",
-          "streamUrl": "https://liveakdai.slivcdn.com/hls/live/2119782/cricodi_2611/KAN/master.m3u8?hdnea=exp=1795772482~acl=/*~id=fdadda49217e62ad96e832d0b99abebe-1794646289302~hmac=39750c4b5af31ad617cf7593967da96372932fd8d436d9dd194f49c97a5d3e68",
+          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/master.m3u8?hdnea=exp=1795785789~acl=/*~id=5f64b06668646d476c3662188de28876-1795742588679~hmac=ea4f8fd4cb4a9c6bf8b8c61c2e7bc7e645b7156340f0a605481b8cc9f4cec75a",
           "quality": "HD",
           "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.41/hls/viii.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
           "backupUrls": []
         }
       ]
@@ -533,66 +540,6 @@
           "backupUrls": []
         }
       ]
-    },
-    {
-      "id": "15382",
-      "category": "Live Events",
-      "eventName": "Sao Paulo vs Remo",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "São Paulo",
-        "teamB": "Remo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Campeonato Brasileiro Série A",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/26 23:00:00 +0000",
-        "endTime": "2026/11/27 01:20:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15384",
-      "category": "Live Events",
-      "eventName": "Dallas Cowboys vs Philadelphia Eagles",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Dallas Cowboys",
-        "teamB": "Philadelphia Eagles",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
-        "eventCat": "American football",
-        "eventName": "American football",
-        "eventType": "NFL",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/26 21:30:00 +0000",
-        "endTime": "2026/11/27 00:30:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15385",
-      "category": "Live Events",
-      "eventName": "Buffalo Bills vs Kansas City Chiefs",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Buffalo Bills",
-        "teamB": "Kansas City Chiefs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
-        "eventCat": "American football",
-        "eventName": "American football",
-        "eventType": "NFL",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 01:20:00 +0000",
-        "endTime": "2026/11/27 04:20:00 +0000"
-      },
-      "streams": []
     },
     {
       "id": "15386",
