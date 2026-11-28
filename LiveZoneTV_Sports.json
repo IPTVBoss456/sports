@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-28T09:26:57.657819+00:00",
-  "total": 64,
+  "updatedAt": "2026-11-28T17:45:04.287078+00:00",
+  "total": 32,
   "events": [
     {
       "id": "591",
@@ -17,8 +17,8 @@
         "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
         "isHot": 0,
         "eventType": "Formula 1",
-        "startTime": "2026/11/28 14:30:39 +0000",
-        "endTime": "2026/11/28 17:56:44 +0000"
+        "startTime": "2026/11/28 18:00:53 +0000",
+        "endTime": "2026/11/28 22:00:57 +0000"
       },
       "streams": [
         {
@@ -30,7 +30,7 @@
         },
         {
           "channelName": "SPORTSCAST - AQ",
-          "streamUrl": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/76499995-c8a6-4163-b39c-99f6566e78f1/master.m3u8",
+          "streamUrl": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/87ba1d75-349e-448d-93ae-e6c2feb7fb13/master.m3u8",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
@@ -43,15 +43,8 @@
           "backupUrls": []
         },
         {
-          "channelName": "RUSSIA FEED",
-          "streamUrl": "https://bl.rutube.ru/livestream/27b8d0d11b4efc6beecb5b698250a1d5/index.m3u8?s=ddjUZmVD7KUWSnUTqB05ig&e=1795221878&scheme=https",
-          "quality": "HD",
-          "headers": "user-agent=Mozilla",
-          "backupUrls": []
-        },
-        {
           "channelName": "LOW SERVER",
-          "streamUrl": "http://193.47.62.59/hls/TFFFAAAQQQ.m3u8",
+          "streamUrl": "http://193.47.62.41/hls/WAWAWAWA.m3u8",
           "quality": "HD",
           "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
           "backupUrls": []
@@ -73,8 +66,8 @@
         "eventLogo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiy9chJNhw1XEU4gM-u6aLV0OGAHC38TO344gN3HFWqeOk5068zqJsQOYTyud9BoDV44JPX0pT2Jr7iVFa-IHUrB80G5N76Q_jUG9qiKNF5Wehb0-DqS6tQ46OpeQFfPfq_K-6icHx6-EZxHj-9cTG5WaqhPNQcqeIOba-XGnMg7ybLyKfEIkFUH5iUg8/s1600/1000009835.png",
         "isHot": 0,
         "eventType": "MotoGP",
-        "startTime": "2026/11/28 07:30:33 +0000",
-        "endTime": "2026/11/28 17:55:35 +0000"
+        "startTime": "2026/11/29 10:00:46 +0000",
+        "endTime": "2026/11/29 17:55:49 +0000"
       },
       "streams": [
         {
@@ -346,8 +339,8 @@
         "eventType": "Women's Big Bash League",
         "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
         "isHot": 0,
-        "startTime": "2026/11/28 08:10:45 +0000",
-        "endTime": "2026/11/28 12:30:10 +0000"
+        "startTime": "2026/11/29 01:00:11 +0000",
+        "endTime": "2026/11/29 09:00:18 +0000"
       },
       "streams": [
         {
@@ -493,117 +486,13 @@
         "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl6f3IJM3zVoiU45GX2IhNPDjAyupyyFamzZwFnB5D6w&s=10",
         "eventType": "International League T20",
         "isHot": 0,
-        "startTime": "2026/11/28 10:00:16 +0000",
+        "startTime": "2026/11/28 14:30:05 +0000",
         "endTime": "2026/11/28 18:30:21 +0000"
       },
       "streams": [
         {
           "channelName": "TAMASHA - AQ",
           "streamUrl": "https://cdn03lhr-n.tamashaweb.com:8087/appcast/ILT-S05-SVOD-abr/playlist.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15413",
-      "category": "Live Events",
-      "eventName": "1. FC Koln vs SV 07 Elversberg",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "1. FC Köln",
-        "teamB": "SV 07 Elversberg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2598/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Bundesliga",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 14:30:00 +0000",
-        "endTime": "2026/11/28 16:50:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15414",
-      "category": "Live Events",
-      "eventName": "Hamburger SV vs FC Bayern Munchen",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Hamburger SV",
-        "teamB": "FC Bayern München",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2676/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Bundesliga",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 14:30:00 +0000",
-        "endTime": "2026/11/28 16:50:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15415",
-      "category": "Live Events",
-      "eventName": "1. FSV Mainz 05 vs 1. FC Union Berlin",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "1. FSV Mainz 05",
-        "teamB": "1. FC Union Berlin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Bundesliga",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 14:30:00 +0000",
-        "endTime": "2026/11/28 16:50:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15416",
-      "category": "Live Events",
-      "eventName": "SC Paderborn 07 vs FC Schalke 04",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "SC Paderborn 07",
-        "teamB": "FC Schalke 04",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Bundesliga",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 14:30:00 +0000",
-        "endTime": "2026/11/28 16:50:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
@@ -630,66 +519,24 @@
       },
       "streams": [
         {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://chatgpt.hereisman.net/playlist/61270/load-playlist-multi?",
+          "quality": "HD",
+          "headers": "Referer=https://gooz.aapmains.net",
+          "backupUrls": []
+        },
+        {
+          "channelName": "HD SERVER",
+          "streamUrl": "https://www.rtmpcdn.com/live/39ffee4f-8788-4d4d-8b25-0f93654418bc.m3u8",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15418",
-      "category": "Live Events",
-      "eventName": "Leeds United vs Coventry City",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Leeds United",
-        "teamB": "Coventry City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/11/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Premier League",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:00:00 +0000",
-        "endTime": "2026/11/28 17:20:00 +0000"
-      },
-      "streams": [
+        },
         {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.50/hls/FVFVFVAAAAQQQ.m3u8",
           "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15419",
-      "category": "Live Events",
-      "eventName": "Manchester United vs Brentford",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Manchester United",
-        "teamB": "Brentford",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Premier League",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:00:00 +0000",
-        "endTime": "2026/11/28 17:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
           "backupUrls": []
         }
       ]
@@ -714,10 +561,24 @@
       },
       "streams": [
         {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "channelName": "USA NETWORK HD",
+          "streamUrl": "https://chatgpt.hereisman.net/playlist/61269/load-playlist-multi?",
+          "quality": "HD",
+          "headers": "Referer=https://gooz.aapmains.net",
+          "backupUrls": []
+        },
+        {
+          "channelName": "HD SERVER",
+          "streamUrl": "https://www.rtmpcdn.com/live/5a9cda05-3611-4759-b0d1-70ccde703dc3.m3u8",
           "quality": "HD",
           "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.59/hls/D3333.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
           "backupUrls": []
         }
       ]
@@ -743,34 +604,6 @@
       "streams": []
     },
     {
-      "id": "15422",
-      "category": "Live Events",
-      "eventName": "Frosinone vs Parma",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Frosinone",
-        "teamB": "Parma",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2801/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2690/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Serie A",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 14:00:00 +0000",
-        "endTime": "2026/11/28 16:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
       "id": "15423",
       "category": "Live Events",
       "eventName": "Torino vs Lazio",
@@ -790,10 +623,17 @@
       },
       "streams": [
         {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "channelName": "PARAMOUNT+ HD",
+          "streamUrl": "https://chatgpt.hereisman.net/playlist/61261/load-playlist-multi?",
           "quality": "HD",
-          "headers": "",
+          "headers": "Referer=https://gooz.aapmains.net",
+          "backupUrls": []
+        },
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.55/hls/TTTTUAAQQQQQAQA.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
           "backupUrls": []
         }
       ]
@@ -819,62 +659,6 @@
       "streams": []
     },
     {
-      "id": "15425",
-      "category": "Live Events",
-      "eventName": "Malaga CF vs Athletic Club",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Málaga CF",
-        "teamB": "Athletic Club",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "LaLiga",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:15:00 +0000",
-        "endTime": "2026/11/28 17:35:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15426",
-      "category": "Live Events",
-      "eventName": "Real Betis vs Rayo Vallecano",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Real Betis",
-        "teamB": "Rayo Vallecano",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "LaLiga",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 13:00:00 +0000",
-        "endTime": "2026/11/28 15:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
       "id": "15427",
       "category": "Live Events",
       "eventName": "Elche vs Atletico Madrid",
@@ -894,10 +678,24 @@
       },
       "streams": [
         {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "channelName": "ESPN DEPORTES HD",
+          "streamUrl": "https://chatgpt.hereisman.net/playlist/61271/load-playlist-multi?",
+          "quality": "HD",
+          "headers": "Referer=https://gooz.aapmains.net",
+          "backupUrls": []
+        },
+        {
+          "channelName": "HD SERVER",
+          "streamUrl": "https://www.rtmpcdn.com/live/86b34f09-f23d-44fd-8bcd-de8778ca1703.m3u8",
           "quality": "HD",
           "headers": "",
+          "backupUrls": []
+        },
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.50/hls/FVFVFVAAAAQQQQ.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
           "backupUrls": []
         }
       ]
@@ -942,10 +740,10 @@
       },
       "streams": [
         {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.41/hls/FFFFFA.m3u8",
           "quality": "HD",
-          "headers": "",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
           "backupUrls": []
         }
       ]
@@ -1052,54 +850,6 @@
         "startTime": "2026/11/28 19:45:00 +0000",
         "endTime": "2026/11/28 22:05:00 +0000"
       },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15434",
-      "category": "Live Events",
-      "eventName": "Al-Hazem vs Al-Nassr",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Al-Hazem",
-        "teamB": "Al-Nassr",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/168086/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Saudi Pro League",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 12:15:00 +0000",
-        "endTime": "2026/11/28 14:35:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15435",
-      "category": "Live Events",
-      "eventName": "Al-Ettifaq vs Al-Hilal",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Al-Ettifaq",
-        "teamB": "Al-Hilal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34318/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Saudi Pro League",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 14:20:00 +0000",
-        "endTime": "2026/11/28 16:40:00 +0000"
-      },
       "streams": []
     },
     {
@@ -1122,350 +872,10 @@
       },
       "streams": [
         {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.50/hls/FVFVFVAAAA.m3u8",
           "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15437",
-      "category": "Live Events",
-      "eventName": "Blackburn Rovers vs Charlton Athletic",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Blackburn Rovers",
-        "teamB": "Charlton Athletic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/46/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Championship",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 12:30:00 +0000",
-        "endTime": "2026/11/28 14:50:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15438",
-      "category": "Live Events",
-      "eventName": "Lincoln City vs Wolverhampton",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Lincoln City",
-        "teamB": "Wolverhampton",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/92/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Championship",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 12:30:00 +0000",
-        "endTime": "2026/11/28 14:50:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15439",
-      "category": "Live Events",
-      "eventName": "Preston North End vs Norwich City",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Preston North End",
-        "teamB": "Norwich City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Championship",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 12:30:00 +0000",
-        "endTime": "2026/11/28 14:50:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15440",
-      "category": "Live Events",
-      "eventName": "Birmingham City vs Bolton Wanderers",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Birmingham City",
-        "teamB": "Bolton Wanderers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Championship",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:00:00 +0000",
-        "endTime": "2026/11/28 17:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15441",
-      "category": "Live Events",
-      "eventName": "Derby County vs Watford",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Derby County",
-        "teamB": "Watford",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/27/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Championship",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:00:00 +0000",
-        "endTime": "2026/11/28 17:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15442",
-      "category": "Live Events",
-      "eventName": "Millwall vs Burnley",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Millwall",
-        "teamB": "Burnley",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Championship",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:00:00 +0000",
-        "endTime": "2026/11/28 17:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15443",
-      "category": "Live Events",
-      "eventName": "Queens Park Rangers vs Sheffield United",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Queens Park Rangers",
-        "teamB": "Sheffield United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Championship",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:00:00 +0000",
-        "endTime": "2026/11/28 17:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15444",
-      "category": "Live Events",
-      "eventName": "West Bromwich Albion vs Bristol City",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "West Bromwich Albion",
-        "teamB": "Bristol City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/58/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Championship",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:00:00 +0000",
-        "endTime": "2026/11/28 17:20:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15445",
-      "category": "Live Events",
-      "eventName": "West Ham United vs Stoke City",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "West Ham United",
-        "teamB": "Stoke City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/29/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Championship",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:00:00 +0000",
-        "endTime": "2026/11/28 17:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15446",
-      "category": "Live Events",
-      "eventName": "Wrexham vs Portsmouth",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Wrexham",
-        "teamB": "Portsmouth",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Championship",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:00:00 +0000",
-        "endTime": "2026/11/28 17:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15447",
-      "category": "Live Events",
-      "eventName": "SG Dynamo Dresden vs FC St. Pauli",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "SG Dynamo Dresden",
-        "teamB": "FC St. Pauli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2595/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "2. Bundesliga",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 12:00:00 +0000",
-        "endTime": "2026/11/28 14:20:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15448",
-      "category": "Live Events",
-      "eventName": "Hertha BSC vs Karlsruher SC",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Hertha BSC",
-        "teamB": "Karlsruher SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "2. Bundesliga",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 12:00:00 +0000",
-        "endTime": "2026/11/28 14:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15449",
-      "category": "Live Events",
-      "eventName": "Holstein Kiel vs 1. FC Kaiserslautern",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Holstein Kiel",
-        "teamB": "1. FC Kaiserslautern",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2675/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "2. Bundesliga",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 12:00:00 +0000",
-        "endTime": "2026/11/28 14:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
           "backupUrls": []
         }
       ]
@@ -1499,34 +909,6 @@
       ]
     },
     {
-      "id": "15451",
-      "category": "Live Events",
-      "eventName": "Excelsior vs SC Telstar",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Excelsior",
-        "teamB": "SC Telstar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2967/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2972/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "VriendenLoterij Eredivisie",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:30:00 +0000",
-        "endTime": "2026/11/28 17:50:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
       "id": "15452",
       "category": "Live Events",
       "eventName": "PSV Eindhoven vs Go Ahead Eagles",
@@ -1544,7 +926,15 @@
         "startTime": "2026/11/28 17:45:00 +0000",
         "endTime": "2026/11/28 20:05:00 +0000"
       },
-      "streams": []
+      "streams": [
+        {
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.41/hls/HTTTTA.m3u8",
+          "quality": "HD",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
+          "backupUrls": []
+        }
+      ]
     },
     {
       "id": "15453",
@@ -1575,90 +965,6 @@
       ]
     },
     {
-      "id": "15454",
-      "category": "Live Events",
-      "eventName": "FC Arouca vs Rio Ave",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "FC Arouca",
-        "teamB": "Rio Ave",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25777/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3036/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Liga Portugal Betclic",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:30:00 +0000",
-        "endTime": "2026/11/28 17:50:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15455",
-      "category": "Live Events",
-      "eventName": "Moreirense vs Santa Clara",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Moreirense",
-        "teamB": "Santa Clara",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3014/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3011/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Liga Portugal Betclic",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:30:00 +0000",
-        "endTime": "2026/11/28 17:50:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15456",
-      "category": "Live Events",
-      "eventName": "Academico Viseu FC vs FC Alverca",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Académico Viseu FC",
-        "teamB": "FC Alverca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3022/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/190328/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Liga Portugal Betclic",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 18:00:00 +0000",
-        "endTime": "2026/11/28 20:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
       "id": "15457",
       "category": "Live Events",
       "eventName": "Vitoria SC vs CF Estrela Amadora",
@@ -1675,74 +981,6 @@
         "isHot": 0,
         "startTime": "2026/11/28 20:30:00 +0000",
         "endTime": "2026/11/28 22:50:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15458",
-      "category": "Live Events",
-      "eventName": "UD Las Palmas vs FC Andorra",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "UD Las Palmas",
-        "teamB": "FC Andorra",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6577/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/324871/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "LaLiga 2",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 13:00:00 +0000",
-        "endTime": "2026/11/28 15:20:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15459",
-      "category": "Live Events",
-      "eventName": "Albacete Balompie vs CD Tenerife",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Albacete Balompié",
-        "teamB": "CD Tenerife",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "LaLiga 2",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:15:00 +0000",
-        "endTime": "2026/11/28 17:35:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15460",
-      "category": "Live Events",
-      "eventName": "CD Eldense vs Girona FC",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "CD Eldense",
-        "teamB": "Girona FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/47321/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "LaLiga 2",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 15:15:00 +0000",
-        "endTime": "2026/11/28 17:35:00 +0000"
       },
       "streams": [
         {
@@ -1795,34 +1033,6 @@
       "streams": []
     },
     {
-      "id": "15463",
-      "category": "Live Events",
-      "eventName": "Samsunspor vs Genclerbirligi",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "teamA": "Samsunspor",
-        "teamB": "Gençlerbirliği",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3053/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7802/image",
-        "eventCat": "Football",
-        "eventName": "Football",
-        "eventType": "Trendyol Süper Lig",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/28 13:00:00 +0000",
-        "endTime": "2026/11/28 15:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-          "quality": "HD",
-          "headers": "",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
       "id": "15464",
       "category": "Live Events",
       "eventName": "Gaziantep FK vs Amedspor",
@@ -1842,10 +1052,10 @@
       },
       "streams": [
         {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "channelName": "LOW SERVER",
+          "streamUrl": "http://193.47.62.41/hls/NNNNA.m3u8",
           "quality": "HD",
-          "headers": "",
+          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
           "backupUrls": []
         }
       ]
