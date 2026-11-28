@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-27T18:18:55.936665+00:00",
-  "total": 29,
+  "updatedAt": "2026-11-28T01:32:11.970691+00:00",
+  "total": 15,
   "events": [
     {
       "id": "591",
@@ -17,8 +17,8 @@
         "eventLogo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
         "isHot": 0,
         "eventType": "Formula 1",
-        "startTime": "2026/11/27 13:30:09 +0000",
-        "endTime": "2026/11/27 17:59:12 +0000"
+        "startTime": "2026/11/28 14:30:39 +0000",
+        "endTime": "2026/11/28 17:56:44 +0000"
       },
       "streams": [
         {
@@ -394,7 +394,7 @@
       "streams": [
         {
           "channelName": "TAPMAD - AQ",
-          "streamUrl": "https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8",
+          "streamUrl": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
           "quality": "HD",
           "headers": "referer=https://tapmad.com/",
           "backupUrls": []
@@ -408,44 +408,37 @@
         },
         {
           "channelName": "SonyLiv - ENG",
-          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/master.m3u8?hdnea=exp=1795785789~acl=/*~id=5f64b06668646d476c3662188de28876-1795742588679~hmac=ea4f8fd4cb4a9c6bf8b8c61c2e7bc7e645b7156340f0a605481b8cc9f4cec75a",
+          "streamUrl": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2711/ENG/master.m3u8?hdnea=exp=1795821348~acl=/*~id=47799873983428665203814461211307~hmac=102bbf6cc737b34f26f6bf26db2993fb9126fc6ec1a49e18735eb06d457f57d3",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
         },
         {
           "channelName": "SonyLiv - HIN",
-          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/master.m3u8?hdnea=exp=1795785789~acl=/*~id=5f64b06668646d476c3662188de28876-1795742588679~hmac=ea4f8fd4cb4a9c6bf8b8c61c2e7bc7e645b7156340f0a605481b8cc9f4cec75a",
+          "streamUrl": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2711/HIN/master.m3u8?hdnea=exp=1795821348~acl=/*~id=47799873983428665203814461211307~hmac=102bbf6cc737b34f26f6bf26db2993fb9126fc6ec1a49e18735eb06d457f57d3",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
         },
         {
           "channelName": "SonyLiv - TEL",
-          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/master.m3u8?hdnea=exp=1795785789~acl=/*~id=5f64b06668646d476c3662188de28876-1795742588679~hmac=ea4f8fd4cb4a9c6bf8b8c61c2e7bc7e645b7156340f0a605481b8cc9f4cec75a",
+          "streamUrl": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2711/ENG/master.m3u8?hdnea=exp=1795821348~acl=/*~id=47799873983428665203814461211307~hmac=102bbf6cc737b34f26f6bf26db2993fb9126fc6ec1a49e18735eb06d457f57d3",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
         },
         {
           "channelName": "SonyLiv - TAM",
-          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/master.m3u8?hdnea=exp=1795785789~acl=/*~id=5f64b06668646d476c3662188de28876-1795742588679~hmac=ea4f8fd4cb4a9c6bf8b8c61c2e7bc7e645b7156340f0a605481b8cc9f4cec75a",
+          "streamUrl": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2711/ENG/master.m3u8?hdnea=exp=1795821348~acl=/*~id=47799873983428665203814461211307~hmac=102bbf6cc737b34f26f6bf26db2993fb9126fc6ec1a49e18735eb06d457f57d3",
           "quality": "HD",
           "headers": "",
           "backupUrls": []
         },
         {
           "channelName": "SonyLiv - KAN",
-          "streamUrl": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/master.m3u8?hdnea=exp=1795785789~acl=/*~id=5f64b06668646d476c3662188de28876-1795742588679~hmac=ea4f8fd4cb4a9c6bf8b8c61c2e7bc7e645b7156340f0a605481b8cc9f4cec75a",
+          "streamUrl": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2711/ENG/master.m3u8?hdnea=exp=1795821348~acl=/*~id=47799873983428665203814461211307~hmac=102bbf6cc737b34f26f6bf26db2993fb9126fc6ec1a49e18735eb06d457f57d3",
           "quality": "HD",
           "headers": "",
-          "backupUrls": []
-        },
-        {
-          "channelName": "LOW SERVER",
-          "streamUrl": "http://193.47.62.41/hls/viii.m3u8",
-          "quality": "HD",
-          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
           "backupUrls": []
         }
       ]
@@ -534,222 +527,6 @@
       "streams": []
     },
     {
-      "id": "15389",
-      "category": "Live Events",
-      "eventName": "Al-Ittihad vs Neom SC",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "eventName": "Football",
-        "teamA": "Al-Ittihad",
-        "teamB": "Neom SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-        "eventCat": "Football",
-        "eventType": "Saudi Pro League",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 17:30:00 +0000",
-        "endTime": "2026/11/27 19:50:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "LOW SERVER",
-          "streamUrl": "http://193.47.62.50/hls/JMMMAA.m3u8",
-          "quality": "HD",
-          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15390",
-      "category": "Live Events",
-      "eventName": "VfL Bochum 1848 vs Darmstadt 98",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "eventName": "Football",
-        "teamA": "VfL Bochum 1848",
-        "teamB": "Darmstadt 98",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2542/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2576/image",
-        "eventCat": "Football",
-        "eventType": "2. Bundesliga",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 17:30:00 +0000",
-        "endTime": "2026/11/27 19:50:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "LOW SERVER",
-          "streamUrl": "http://193.47.62.50/hls/JMMMAAA.m3u8",
-          "quality": "HD",
-          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15391",
-      "category": "Live Events",
-      "eventName": "1. FC Heidenheim vs 1. FC Nurnberg",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "eventName": "Football",
-        "teamA": "1. FC Heidenheim",
-        "teamB": "1. FC Nürnberg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2523/image",
-        "eventCat": "Football",
-        "eventType": "2. Bundesliga",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 17:30:00 +0000",
-        "endTime": "2026/11/27 19:50:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "LOW SERVER",
-          "streamUrl": "http://193.47.62.50/hls/JMMMAAAA.m3u8",
-          "quality": "HD",
-          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15392",
-      "category": "Live Events",
-      "eventName": "Alanyaspor vs Konyaspor",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "eventName": "Football",
-        "teamA": "Alanyaspor",
-        "teamB": "Konyaspor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6362/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-        "eventCat": "Football",
-        "eventType": "Trendyol Süper Lig",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 17:00:00 +0000",
-        "endTime": "2026/11/27 19:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "LOW SERVER",
-          "streamUrl": "http://193.47.62.41/hls/8KKK.m3u8",
-          "quality": "HD",
-          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15393",
-      "category": "Live Events",
-      "eventName": "Caykur Rizespor vs Kasmpasa",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "eventName": "Football",
-        "teamA": "Çaykur Rizespor",
-        "teamB": "Kasımpaşa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-        "eventCat": "Football",
-        "eventType": "Trendyol Süper Lig",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 17:00:00 +0000",
-        "endTime": "2026/11/27 19:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "LOW SERVER",
-          "streamUrl": "http://193.47.62.41/hls/8KKKA.m3u8",
-          "quality": "HD",
-          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15401",
-      "category": "Live Events",
-      "eventName": "Venezuela U17 vs Mexico U17",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "eventName": "Football",
-        "teamA": "Venezuela U17",
-        "teamB": "Mexico U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/48841/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22629/image",
-        "eventCat": "Football",
-        "eventType": "U17 World Championship",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/279/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 16:00:00 +0000",
-        "endTime": "2026/11/27 18:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "LOW SERVER",
-          "streamUrl": "http://193.47.62.41/hls/JRRRA.m3u8",
-          "quality": "HD",
-          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36|Referer=http://www.fawanews.sc/|Origin=http://www.fawanews.sc",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
-      "id": "15402",
-      "category": "Live Events",
-      "eventName": "SV Werder Bremen vs Borussia Mgladbach",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "eventName": "Football",
-        "teamA": "SV Werder Bremen",
-        "teamB": "Borussia M'gladbach",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-        "eventCat": "Football",
-        "eventType": "Bundesliga",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 19:30:00 +0000",
-        "endTime": "2026/11/27 21:50:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15403",
-      "category": "Live Events",
-      "eventName": "Nottingham Forest vs Chelsea",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "eventName": "Football",
-        "teamA": "Nottingham Forest",
-        "teamB": "Chelsea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
-        "eventCat": "Football",
-        "eventType": "Premier League",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 20:00:00 +0000",
-        "endTime": "2026/11/27 22:20:00 +0000"
-      },
-      "streams": [
-        {
-          "channelName": "SKY SPORTS EPL",
-          "streamUrl": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
-          "quality": "HD",
-          "headers": "User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
-          "backupUrls": []
-        }
-      ]
-    },
-    {
       "id": "15404",
       "category": "Live Events",
       "eventName": "Fluminense vs Cruzeiro",
@@ -766,86 +543,6 @@
         "isHot": 0,
         "startTime": "2026/11/27 23:00:00 +0000",
         "endTime": "2026/11/28 01:20:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15405",
-      "category": "Live Events",
-      "eventName": "Venezia vs Bologna",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "eventName": "Football",
-        "teamA": "Venezia",
-        "teamB": "Bologna",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2688/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-        "eventCat": "Football",
-        "eventType": "Serie A",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 19:45:00 +0000",
-        "endTime": "2026/11/27 22:05:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15406",
-      "category": "Live Events",
-      "eventName": "Levante UD vs Real Racing Club",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "eventName": "Football",
-        "teamA": "Levante UD",
-        "teamB": "Real Racing Club",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2835/image",
-        "eventCat": "Football",
-        "eventType": "LaLiga",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 20:00:00 +0000",
-        "endTime": "2026/11/27 22:20:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15407",
-      "category": "Live Events",
-      "eventName": "Stade Brestois vs Paris FC",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "eventName": "Football",
-        "teamA": "Stade Brestois",
-        "teamB": "Paris FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6070/image",
-        "eventCat": "Football",
-        "eventType": "Ligue 1",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 19:45:00 +0000",
-        "endTime": "2026/11/27 22:05:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15408",
-      "category": "Live Events",
-      "eventName": "Southampton vs Middlesbrough",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "eventName": "Football",
-        "teamA": "Southampton",
-        "teamB": "Middlesbrough",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
-        "eventCat": "Football",
-        "eventType": "Championship",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 20:00:00 +0000",
-        "endTime": "2026/11/27 22:20:00 +0000"
       },
       "streams": []
     },
@@ -867,32 +564,12 @@
         "startTime": "2026/11/28 01:00:00 +0000",
         "endTime": "2026/11/28 03:20:00 +0000"
       },
-      "streams": []
-    },
-    {
-      "id": "15410",
-      "category": "Live Events",
-      "eventName": "FC Groningen vs Willem II Tilburg",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "eventName": "Football",
-        "teamA": "FC Groningen",
-        "teamB": "Willem II Tilburg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2951/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2961/image",
-        "eventCat": "Football",
-        "eventType": "VriendenLoterij Eredivisie",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 19:00:00 +0000",
-        "endTime": "2026/11/27 21:20:00 +0000"
-      },
       "streams": [
         {
-          "channelName": "Live Stream",
-          "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "channelName": "CRICFy LIVE",
+          "streamUrl": "https://chatgpt.hereisman.net/playlist/61216/load-playlist-multi?",
           "quality": "HD",
-          "headers": "",
+          "headers": "Referer=https://gooz.aapmains.net",
           "backupUrls": []
         }
       ]
@@ -914,26 +591,6 @@
         "isHot": 0,
         "startTime": "2026/11/27 20:15:00 +0000",
         "endTime": "2026/11/27 22:35:00 +0000"
-      },
-      "streams": []
-    },
-    {
-      "id": "15412",
-      "category": "Live Events",
-      "eventName": "Leganes vs CE Sabadell",
-      "status": "UPCOMING",
-      "eventInfo": {
-        "eventName": "Football",
-        "teamA": "Leganés",
-        "teamB": "CE Sabadell",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24335/image",
-        "eventCat": "Football",
-        "eventType": "LaLiga 2",
-        "eventLogo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "isHot": 0,
-        "startTime": "2026/11/27 19:30:00 +0000",
-        "endTime": "2026/11/27 21:50:00 +0000"
       },
       "streams": []
     }
